@@ -1,5 +1,6 @@
 # 💫 About Me:
-im tsi second year student
+Second year student at TSI
+Building data engineering projects as well as analyzing them
 
 
 ## 🌐 Socials:
